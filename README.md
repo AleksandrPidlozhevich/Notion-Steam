@@ -3,11 +3,11 @@
 + How to get a Steam Web API Key?
 Go to the link https://steamcommunity.com/dev/apikey/  
 Enter the domain: localhost  
-Put a tick. We get the Steam Web API key. Don't show it anyway.  
+Put a tick. We get the Steam Web API key (do not show it to anyone and do not leave it in the repository).  
 ![image](https://user-images.githubusercontent.com/78640105/227802506-2349e068-6e7f-4594-84cc-fa3d17b23d69.png)
 ![image](https://user-images.githubusercontent.com/78640105/227804345-87631570-7ebf-4ad8-a859-603cb4d7609b.png)
 + [How to find out your unique Steam ID](https://help.steampowered.com/en/faqs/view/2816-BE67-5B69-0FEC).  
-+ [Create integrations with the Notion API](https://www.notion.so/help/create-integrations-with-the-notion-api)  
++ [Create integrations with the Notion API](https://www.notion.so/help/create-integrations-with-the-notion-api)(do not show it to anyone and do not leave it in the repository)  
 + Connecting the database in Notion  
 Next, your task is to go to the Notion page and add access to it. This is done quite simply:  
 We go to the database page. Important: it must be exactly Database - full page  
