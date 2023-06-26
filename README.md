@@ -1,4 +1,3 @@
-![stand with Ukraine](https://img.shields.io/badge/stand_with-ukraine-ffd700.svg?labelColor=0057b7)
 # Notion-Steam
 ## Transfer all games from [Steam](https://store.steampowered.com/) to [Notion](https://www.notion.so) ##
 + How to get a Steam Web API Key?
